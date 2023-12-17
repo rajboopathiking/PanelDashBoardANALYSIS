@@ -8,8 +8,6 @@
         techniques : machine learning,artificial intelligence
         tools : jupyter
 
-Data is Education data. 365datascience is educational institude. 365datascience provide beneficial courses and excercise,exams etc...i also had course in 365datascience . its awesome platform and gamified platform. it help me to understand more.we are going to get insights from data. then made a predictive modeling. (get foresights from data)
-
 
 ### Goal:
    Data is Flight Data . Help to Analysis the Price . Panel is library in Python used for Creating Dashboard for This Data. Get Reasonable insights from data.(hindsight)
